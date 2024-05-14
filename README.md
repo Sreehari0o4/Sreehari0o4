@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me: sreeharisk0o2@gmail.com
-- ⚡ Fun fact: I sleep more
+- ⚡ Fun fact: I sleep 
 
 <!---
 Sreehari0o4/Sreehari0o4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
