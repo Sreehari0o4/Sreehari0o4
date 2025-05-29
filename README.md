@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m SREEHARI S KUMAR<br>👀 I’m interested in learning something new<br>🌱 I’m currently learning DevOps and UX design<br>💞️ I’m looking to collaborate<br>📫 How to reach me: sreeharisk0o2@gmail.com<br>⚡ Fun fact: I sleep enough
+👋 Hi, I’m SREEHARI S KUMAR<br>👀 I’m interested in learning something new<br>🌱 I’m currently learning DevOps and UX design<br>💞️ I’m looking to collaborate<br>📫 How to reach me: sreeharisk0o2@gmail.com<br>⚡ Fun fact: I sleep
 
 
 ## 🌐 Socials:
